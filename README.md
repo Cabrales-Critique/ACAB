@@ -1,7 +1,7 @@
 # ACAB
-I'm 26, learning general coding to start a career in IT.
+I'm 26, learning about computer programming, networking, hardware, and internet systems to start a career in IT.
 I have a B.S. in Criminal Justice from CSUEB--Go Pioneers!
-I'm a student full time at Ohlone College, studying to earn an A.A. in Natural Science with an Emphasis in Math and Technology and to be CRLA certified this Spring. 
-Looking forward to learning more programming and making mistakes but shaking the dust off after. I stared with C++, then tweaked around with Python, and now I'm using HTML and CSS to create a website for a small business idea I have for English tutoring.
+I'm a student full time at Ohlone College currently studying to earn a honors A.A. in Natural Science with an Emphasis in Math and Technology, a honors A.A. in Liberal Artis with an Emphasis in Languages, and to get level-1 certified this Spring with the College Reading and Language Association (CRLA). I'm looking to earn a A.S. in Information Technologies as well from Ohlone. My ultimate goal in the future for my education is to earn a B.S. in Information Technology Management. But, first, I'm looking to obtain a entry-level IT support position to allow me to grow as an individual both mentally with knowledge and physically by working with different pieces of computer hardware, such as keyboards, mice, printers, and monitors. 
+Looking forward to learning more about programming and information technologies. For programming, I started with C++, then tweaked around with Python, and now I'm using HTML and CSS to create a website for a small business idea I have for English tutoring, as well as a personal website to show case my life. For informationn technologies, I'm currenty learning about Database management throught the use of queries, specifically with the SQL language using the Oracle.
 I love In-N-Out. 115! I love cooking. I make a mean breakfast and burger. 
 Any questions, advice, and criticisms are all welcome: cabralescritique@gmail.com
